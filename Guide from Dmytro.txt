@@ -1,0 +1,5 @@
+Please Ensure you have folder named uploadedfiles in data folder.
+-------ai-chat-app 1
+-------data
+---------------uploadedfiles
+------------------------[Uploaded csv files will be placed here]

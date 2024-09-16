@@ -1,0 +1,9 @@
+reflex>=0.4.7
+openai>=1.14.0
+scipy
+python-docx
+pandas
+tiktoken
+plotly
+scikit-learn
+umap
